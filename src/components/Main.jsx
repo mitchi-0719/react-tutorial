@@ -1,4 +1,4 @@
-import Aside from "./Side";
+import Aside from "./Aside";
 import Contents from "./Contents";
 import "../styles/Main.module.css";
 

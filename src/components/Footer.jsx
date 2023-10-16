@@ -1,4 +1,4 @@
-import "../styles/Footer.module.css"
+import "../styles/Footer.module.css";
 
 export default function Footer() {
   return (
@@ -8,7 +8,7 @@ export default function Footer() {
         in any way you wish. Original example written by Chris Mills, 2016.
       </p>
       <p>
-        <a href="http://game-icons.net/lorc/originals/dove.html">Dove icon</a>
+        <a href="http://game-icons.net/lorc/originals/dove.html">Dove icon </a>
         by Lorc.
       </p>
     </footer>

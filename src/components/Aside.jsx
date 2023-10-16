@@ -1,5 +1,5 @@
 import Gallery from "./Gallery";
-import "../styles/Side.module.css"
+import "../styles/Aside.module.css"
 
 export default function Side() {
   return (

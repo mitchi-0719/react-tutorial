@@ -1,7 +1,3 @@
-article, section {
-  flex: 2;
-}
-
 aside {
   flex: 1;
   margin-left: 10px;
