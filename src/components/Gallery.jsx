@@ -25,10 +25,10 @@ export default function Gallery() {
   ];
 
   return (
-    <div>
+    <section>
       {imageInfos.map((val) => (
         <Image src={val.src} alt={val.alt} href={val.href} />
       ))}
-    </div>
+    </section>
   );
 }

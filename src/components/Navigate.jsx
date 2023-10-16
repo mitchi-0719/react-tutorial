@@ -1,3 +1,5 @@
+import "../styles/Navigate.module.css"
+
 export default function Navigate() {
   return (
     <nav>

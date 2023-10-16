@@ -1,6 +1,6 @@
 export default function Contents() {
   return (
-    <main>
+    <article>
       <h2>Welcome</h2>
       <p>
         Welcome to our fake birdwatching site. If this were a real site, it
@@ -13,6 +13,6 @@ export default function Contents() {
         So don't waste time! Get what you need, then turn off that computer and
         get out into the great outdoors!
       </p>
-    </main>
+    </article>
   );
 }
